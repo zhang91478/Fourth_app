@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Fourth_app</string>
+    <string name="name">姓名:</string>
+    <string name="stu_id">学号:</string>
+    <string name="writer">写入</string>
+    <string name="reader">读取</string>
+    <string name="bar">下面显示写入的内容：</string>
 </resources>
